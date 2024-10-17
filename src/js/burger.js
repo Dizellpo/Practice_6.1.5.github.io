@@ -1,7 +1,7 @@
 const initBurger = function () {
   const page = document.querySelector('.page')
   const pageContent = page.querySelector('.page__content')
-  const burgerBtn = document.querySelector('#burger-btn')
+  const burgerBtn = document.querySelector('.burger-btn')
   const burgerMenu = document.querySelector('.burger-menu')
   const burgerCloseBtn = document.querySelector('.burger-menu__close-btn')
 
